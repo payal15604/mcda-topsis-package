@@ -1,5 +1,9 @@
 # TOPSIS Command-Line Tool
 
+## PyPI Link
+
+You can view the project on PyPI [here](https://pypi.org/project/topsis-payal-102203203/).
+
 ## Project Description
 
 The **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** command-line tool implements the TOPSIS method, which is used in multi-criteria decision-making (MCDM) problems. The method ranks alternatives based on their relative closeness to the ideal solution. This package allows users to perform TOPSIS analysis on a dataset provided in a CSV format, specifying weights and impacts for each criterion.
